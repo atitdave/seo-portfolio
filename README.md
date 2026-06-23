@@ -58,6 +58,44 @@ Built and executed combined AEO/SEO action plans (content, technical, link build
 Managed 35 concurrent SEO/PPC projects for AU & US clients. Secured 1,000+ #1 Google rankings, grew organic traffic 43%, and led a redesign that doubled site traffic. Recovered a Google-penalized site.
 
 ---
+## 💼 Client Portfolio
+
+| Client | Website | Industry | Services Provided |
+|--------|---------|----------|-------------------|
+| Mircom | https://mircom.com/ | Fire Safety | SEO, Content Strategy, GEO, AEO, LLM |
+| Spergel | https://www.spergel.ca/ | Financial Services | SEO, Content Strategy, GEO, AEO, LLM |
+| Dream Spaces | https://dreamspaces.ca/ | Home Improvement | SEO, Content Strategy, GEO, AEO, LLM |
+| Macrodyne | https://macrodynepress.com/ | Manufacturing | Technical SEO |
+| Stealth | https://www.stealth.com/ | Manufacturing | SEO, Content Strategy, GEO, AEO, LLM |
+| PicklePlex | https://pickleplex.ca/ | Sports & Recreation | SEO, Content Strategy, GEO, AEO, LLM |
+| GoldBar Whiskey | https://goldbarwhiskey.com/ | Consumer Brand | SEO |
+| Ensign Energy | https://www.ensignenergy.com/ | Energy | SEO, Content Strategy, GEO, AEO, LLM |
+| American Tall | https://americantall.com/ | Ecommerce | Technical SEO, Content Strategy, GEO, AEO, LLM |
+| ACH Engineering | https://www.achengineering.com/ | Engineering | Technical SEO, Content Strategy, GEO, AEO, LLM |
+| Simcoe Rehab | https://www.simcoerehab.ca/ | Healthcare | Technical SEO |
+| BrandCo Direct | https://brandcodirect.com/ | Marketing | Technical SEO |
+| Smith Cosmetics | https://www.smithcosmetics.com/ | Beauty | Technical SEO |
+| Thomas, Large & Singer | https://thomaslargesinger.com/ | Supply Chain Solutions | Technical SEO, Content Strategy, GEO, AEO, LLM |
+| True North Log Homes | https://www.truenorthloghomes.com/ | Construction | Technical SEO, Content Strategy, GEO, AEO, LLM |
+| Grail Springs | https://www.grailsprings.com/ | Hospitality | SEO |
+| Peel Fence | https://peelfencenewmarket.com/ | Construction | Technical SEO, Content Strategy, GEO, AEO, LLM |
+| GibSan | https://gibsanpools.com/ | Manufacturing | Technical SEO, Content Strategy, GEO, AEO, LLM |
+| Elite Emission Products | https://www.eliteemissionproducts.com/ | Manufacturing | Technical SEO |
+| Nimble Canada | https://nimble.ca/ | Technology | Technical SEO |
+| Bathway | https://www.bathway.ca/ | Bathroom Renovation | Technical SEO, Content Strategy, GEO, AEO, LLM, Local SEO |
+| Torvan | https://torvanmedical.com/ | Manufacturing | Technical SEO |
+| Port Perry Dental | https://www.dentistportperry.com/ | Dental | Technical SEO, Content Strategy, GEO, AEO, LLM, Local SEO |
+| 404 Dental | https://www.404dental.com/ | Dental | Technical SEO, Content Strategy, Local SEO |
+| Superior Crane | https://www.superiorcrane.ca/ | Industrial | SEO |
+| Advica | https://www.advicahealth.com/ | Technology | SEO |
+| ProServeIT | https://www.proserveit.com/ | IT Services | Technical SEO, Local SEO, Content Strategy |
+| SAF Drive | https://www.safdrives.com/ | Industrial | Technical SEO |
+| Merricks Law | https://merrickslawgroup.ca/ | Legal | Technical SEO |
+| Specialty Gaskets | https://specialtygaskets.com/ | Manufacturing | Technical SEO, Content Strategy |
+| Bespoke Audio Visual | https://www.bespokeav.ca/ | AV Solutions | Technical SEO, Content Strategy |
+| McKenna Logistics | https://mckennalogistics.com/ | Logistics | Technical SEO, Content Strategy, GEO, AEO, LLM |
+
+---
 
 ## 🎓 Education & certifications
 
