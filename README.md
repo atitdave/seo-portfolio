@@ -63,7 +63,6 @@ Managed 35 concurrent SEO/PPC projects for AU & US clients. Secured 1,000+ #1 Go
 
 **Bachelor of Commerce** — Gujarat University, India
 ## 📜 Certifications & Licenses
-## Licenses & Certifications
 
 | Certification | Issuing Organization | Issued | Expires | Credential ID | Skills | Credential Link |
 |---|---|---|---|---|---|---|
