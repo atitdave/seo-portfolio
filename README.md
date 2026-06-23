@@ -62,7 +62,54 @@ Managed 35 concurrent SEO/PPC projects for AU & US clients. Secured 1,000+ #1 Go
 ## 🎓 Education & certifications
 
 **Bachelor of Commerce** — Gujarat University, India
-SEO II (HubSpot) · Google My Business · Fundamentals of Digital Marketing
+## 📜 Certifications & Licenses
+
+### 🟡 Google Ads Search Certification
+**Google**  
+Issued: Jun 2026 | Expires: Jun 2027  
+Skills: PPC, Google Ads  
+Credential: Available on Google Skillshop
+
+---
+
+### 🤖 AI and Digital Marketing Trends
+**LinkedIn Learning**  
+Issued: May 2026  
+Skills: AI for Marketing  
+Credential: LinkedIn Certificate
+
+---
+
+### 📈 Mastering SEO: How to Develop a Superior SEO Strategy
+**LinkedIn Learning**  
+Issued: May 2026  
+Skills: SEO Strategy, Marketing Strategy  
+Credential: LinkedIn Certificate
+
+---
+
+### 🛠 Marketing Tools: Digital Marketing Tools and Services
+**LinkedIn Learning**  
+Issued: May 2026  
+Skills: Digital Marketing Tools, Marketing Platforms  
+Credential: LinkedIn Certificate
+
+---
+
+### 🎯 SEO II Certification
+**HubSpot Academy**  
+Issued: Feb 2026 | Expires: Mar 2028  
+Credential ID: bcd3dc88fb9e4260b69452d2476d73aa  
+Skills: Search Strategy, Link Building Campaigns  
+Credential: HubSpot Academy
+
+---
+
+### 📊 Google Analytics Certification
+**Google**  
+Issued: Feb 2026 | Expires: Feb 2027  
+Skills: Search Strategy, Google Search Console, Analytics  
+Credential: Google Skillshop
 
 ---
 
