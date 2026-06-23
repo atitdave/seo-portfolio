@@ -1,8 +1,8 @@
 # Hi, I'm Atit Dave 👋
 
-### SEO, AEO & GEO Strategist · Kitchener, ON
+<h1>8+ years turning search visibility into <em>revenue</em> — across SEO, AEO, and GEO.</h1>
+<p class="hero-sub">I'm an SEO strategist who's spent 8+ years driving organic growth for enterprise eCommerce, SaaS, B2B, healthcare, and industrial brands. Over the last several years I've extended that into AEO and GEO — optimizing how brands show up in Google's AI Overviews, ChatGPT, Perplexity, and Gemini, not just classic SERPs.</p>
 
-I help brands get found, ranked, and read — in classic search **and** in AI-driven answers. 8+ years driving organic growth across enterprise eCommerce, SaaS, B2B, healthcare, and industrial brands, now extended into Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO).
 
 📫 [atit.dave365@gmail.com](mailto:atit.dave365@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/atitdave365/)
 
@@ -17,11 +17,10 @@ I help brands get found, ranked, and read — in classic search **and** in AI-dr
 | **+62% / +46%** | traffic growth / goal-conversion growth from an SEO strategy |
 | **1,000+** keywords | ranked #1 on Google |
 | **+43% / −22%** | organic traffic up, bounce rate down via authority building |
-| **35** projects | managed concurrently across SEO & PPC |
+| **35** projects | managed concurrently across SEO |
 
 ---
-
-## 🧠 What I do
+<h2>I work where SEO meets the words on the page.</h2>
 
 **Traditional SEO**
 `Technical audits` · `Site architecture & crawlability` · `Keyword & intent mapping` · `On-page optimization` · `CRO` · `SEM` · `Penalty recovery` · `Authority building`
@@ -109,4 +108,7 @@ Managed 35 concurrent SEO/PPC projects for AU & US clients. Secured 1,000+ #1 Go
 | Mastering SEO: How to Develop a Superior SEO Strategy | LinkedIn | May 2026 | — | — | Search Engine Optimization (SEO), Marketing Strategy | [Show credential](https://www.linkedin.com/learning/certificates/5d00bb19610e452fa49fe4a47c1d627e6f5bf21bffc6e80f78332b48447b8ba7/) |
 | Marketing Tools: Digital Marketing Tools and Services | LinkedIn | May 2026 | — | — | Digital Marketing | [Show credential](https://www.linkedin.com/learning/certificates/a253ba886eaef8a0140b79cd95031721c17369513c9dbfbe5da801a2177f9cc2/) |
 | SEO II | HubSpot Academy | Feb 2026 | Mar 2028 | bcd3dc88fb9e4260b69452d2476d73aa | Search Strategy, Link Building Campaigns | [Show credential](https://app-na3.hubspot.com/academy/achievements/hl17q60h/en/1/atit-dave/seo-ii) |
-| Google Analytics Certification | Google | Feb 2026 | Feb 2027 | — | Search Strategy, Google Search Console, +2 skills | [Show credential](https://skillshop.credential.net/c5ab8125-4cf7-4e19-90d1-797987880636) |
+
+
+
+
