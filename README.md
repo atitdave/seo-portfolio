@@ -63,54 +63,13 @@ Managed 35 concurrent SEO/PPC projects for AU & US clients. Secured 1,000+ #1 Go
 
 **Bachelor of Commerce** — Gujarat University, India
 ## 📜 Certifications & Licenses
+## Licenses & Certifications
 
-### 🟡 Google Ads Search Certification
-**Google**  
-Issued: Jun 2026 | Expires: Jun 2027  
-Skills: PPC, Google Ads  
-Credential: Available on Google Skillshop
-
----
-
-### 🤖 AI and Digital Marketing Trends
-**LinkedIn Learning**  
-Issued: May 2026  
-Skills: AI for Marketing  
-Credential: LinkedIn Certificate
-
----
-
-### 📈 Mastering SEO: How to Develop a Superior SEO Strategy
-**LinkedIn Learning**  
-Issued: May 2026  
-Skills: SEO Strategy, Marketing Strategy  
-Credential: LinkedIn Certificate
-
----
-
-### 🛠 Marketing Tools: Digital Marketing Tools and Services
-**LinkedIn Learning**  
-Issued: May 2026  
-Skills: Digital Marketing Tools, Marketing Platforms  
-Credential: LinkedIn Certificate
-
----
-
-### 🎯 SEO II Certification
-**HubSpot Academy**  
-Issued: Feb 2026 | Expires: Mar 2028  
-Credential ID: bcd3dc88fb9e4260b69452d2476d73aa  
-Skills: Search Strategy, Link Building Campaigns  
-Credential: HubSpot Academy
-
----
-
-### 📊 Google Analytics Certification
-**Google**  
-Issued: Feb 2026 | Expires: Feb 2027  
-Skills: Search Strategy, Google Search Console, Analytics  
-Credential: Google Skillshop
-
----
-
-<sub>Open to full-time roles, contract work, and ongoing retainers. Client metrics shareable in conversation; specifics withheld where under NDA.</sub>
+| Certification | Issuing Organization | Issued | Expires | Credential ID | Skills | Credential Link |
+|---|---|---|---|---|---|---|
+| Google Ads Search Certification | Google | Jun 2026 | Jun 2027 | — | PPC, Google Ads | [Show credential](https://skillshop.credential.net/fe182311-a166-455b-ab5f-260593349760) |
+| AI and Digital Marketing Trends | LinkedIn | May 2026 | — | — | AI for Marketing | [Show credential](https://www.linkedin.com/learning/certificates/a0f9ce5b3cf1dee2089df752159ac1e51080283f80d9c669ef681d1ada47cc06/) |
+| Mastering SEO: How to Develop a Superior SEO Strategy | LinkedIn | May 2026 | — | — | Search Engine Optimization (SEO), Marketing Strategy | [Show credential](https://www.linkedin.com/learning/certificates/5d00bb19610e452fa49fe4a47c1d627e6f5bf21bffc6e80f78332b48447b8ba7/) |
+| Marketing Tools: Digital Marketing Tools and Services | LinkedIn | May 2026 | — | — | Digital Marketing | [Show credential](https://www.linkedin.com/learning/certificates/a253ba886eaef8a0140b79cd95031721c17369513c9dbfbe5da801a2177f9cc2/) |
+| SEO II | HubSpot Academy | Feb 2026 | Mar 2028 | bcd3dc88fb9e4260b69452d2476d73aa | Search Strategy, Link Building Campaigns | [Show credential](https://app-na3.hubspot.com/academy/achievements/hl17q60h/en/1/atit-dave/seo-ii) |
+| Google Analytics Certification | Google | Feb 2026 | Feb 2027 | — | Search Strategy, Google Search Console, +2 skills | [Show credential](https://skillshop.credential.net/c5ab8125-4cf7-4e19-90d1-797987880636) |
